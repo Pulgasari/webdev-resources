@@ -14,6 +14,7 @@ personal collection of useful resources for web development
 - [minify-js.com](https://minify-js.com)
 - [unminify.com](https://unminify.com)
 - https://js.org/
+- patterns.dev - Basic Coding Patterns for Vanilla JS
 
 ### Docs
 
@@ -21,4 +22,8 @@ personal collection of useful resources for web development
 - [SvelteKit Docs](https://svelte.dev/docs/kit/overview)
 - [WordPress Docs](https://wordpress.org/documentation/)
 - [WordPress Developer Resources](https://developers.wordpress.org/)
+
+##
+
+- https://codepen.io/
 
