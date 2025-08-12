@@ -13,6 +13,7 @@ personal collection of useful resources for web development
 
 - [minify-js.com](https://minify-js.com)
 - [unminify.com](https://unminify.com)
+- https://js.org/
 
 ### Docs
 
