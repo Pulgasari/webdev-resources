@@ -27,3 +27,6 @@ personal collection of useful resources for web development
 
 - https://codepen.io/
 
+## Video Tutorials
+- https://levelup.video
+
