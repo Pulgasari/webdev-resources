@@ -30,3 +30,6 @@ personal collection of useful resources for web development
 ## Video Tutorials
 - https://levelup.video
 
+## Svelte
+- https://userunes.com
+
