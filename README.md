@@ -32,4 +32,5 @@ personal collection of useful resources for web development
 
 ## Svelte
 - https://userunes.com
+- https://www.sveltelab.dev/
 
